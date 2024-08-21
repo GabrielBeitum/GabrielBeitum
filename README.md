@@ -22,10 +22,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=GabrielBeitum" alt="Layout with last medium posts"  />
-</div>
-
+<section>
+    <div>
+        <a href="https://github.com/JHoww4">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBeitum&layout=compact&langs_count=7&theme=dracula"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBeitum&show_icons=true&theme=tokyonight"/>
+    </div>
+</section>
 ###
 
 <div align="left">
