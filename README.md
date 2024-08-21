@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h2 align="left">Sou Gabriel Marcello Beitum, atualmente aluno do curso de ADS - Fatec PP, tenho 20 anos, e trabalho como suporte técnico na Unoeste. Normalmente estou focando meus estudos em python voltado ao machine learning, visando o desenvolvimento de minhas habilidades e conhecimentos em IA. Possuio dominancia em algumas linguagens como C#, Pythone e React, também como utilitarios o HTML e CSS. 👋! </h2>
+<h3 align="left">Sou Gabriel Marcello Beitum, atualmente aluno do curso de ADS - Fatec PP, tenho 20 anos, e trabalho como suporte técnico na Unoeste. Normalmente estou focando meus estudos em python voltado ao machine learning, visando o desenvolvimento de minhas habilidades e conhecimentos em IA. Possuio dominancia em algumas linguagens como C#, Pythone e React, também como utilitarios o HTML e CSS. 👋! </h3>
 
 ###
 
