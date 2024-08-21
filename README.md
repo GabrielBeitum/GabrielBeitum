@@ -1,6 +1,6 @@
 
 <h3 align="left">Sou Gabriel Marcello Beitum, atualmente aluno do curso de ADS - Fatec PP, tenho 20 anos, e trabalho como suporte técnico na Unoeste. Normalmente estou focando meus estudos em python voltado ao machine learning, visando o desenvolvimento de minhas habilidades e conhecimentos em IA. Possuio dominancia em algumas linguagens como C#, Pythone e React, também como utilitarios o HTML e CSS. 👋! </h3>
-
+<br><br><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -31,7 +31,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBeitum&show_icons=true&theme=tokyonight"/>
     </div>
 </section>
-<br>
+<br><br><br>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
