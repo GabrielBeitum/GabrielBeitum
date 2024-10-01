@@ -1,58 +1,52 @@
-<h3 align="left">Sou Gabriel Marcello Beitum, atualmente aluno do curso de ADS - Fatec PP, tenho 20 anos, e trabalho como suporte técnico na Unoeste. Normalmente estou focando meus estudos em python voltado ao machine learning, visando o desenvolvimento de minhas habilidades e conhecimentos em IA. Possuo domínio em algumas linguagens como C#, Python e React, também como utilitários o HTML e CSS. 👋! </h3>
-<br>
-<h4 align="left">Linguagens e Ferramentas:</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-<br>
-<h4 align="left">Minhas Habilidades:</h4>
-<ul>
-  <li>Python: Machine Learning, Análise de Dados</li>
-  <li>C#: Desenvolvimento de Aplicações Desktop</li>
-  <li>React: Desenvolvimento Front-end</li>
-  <li>HTML/CSS: Design e Estruturação de Páginas Web</li>
-  <li>JavaScript: Programação Front-end e Back-end</li>
-  <li>MySQL e MongoDB: Gerenciamento de Bancos de Dados</li>
-  <li>Kaggle: Competições de Data Science</li>
-  <li>Canva: Design Gráfico</li>
-</ul>
-<br><br>
+<h1 align="center">Olá 👋, eu sou Gabriel Marcello Beitum</h1>
 
-<section>
-    <div>
-        <a href="https://github.com/GabrielBeitum">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBeitum&layout=compact&langs_count=8&theme=dracula"/>
-        </a>
-        <a href="https://github.com/GabrielBeitum">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBeitum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        </a>
-    </div>
-</section>
-<br><br>
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
+<h3 align="center">Desenvolvedor Full Stack | Entusiasta de Machine Learning | Estudante de ADS</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrielbeitum&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="gabrielbeitum" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gabrielbeitum&theme=dracula&column=7" alt="gabrielbeitum" />
+  </a>
+</p>
+
+<p align="center">
+  🎓 Atualmente cursando <strong>Análise e Desenvolvimento de Sistemas na Fatec PP</strong><br>
+  💼 Trabalhando como <strong>Suporte Técnico na Unoeste</strong><br>
+  🌱 Focado em aprender <strong>Machine Learning e Inteligência Artificial</strong><br>
+  💬 Pergunte-me sobre <strong>Python, C#, React, HTML, CSS e JavaScript</strong>
+</p>
+
+<h3 align="center">Linguagens e Ferramentas:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
+</p>
+
+<h3 align="center">Estatísticas do GitHub:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbeitum&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gabrielbeitum" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbeitum&show_icons=true&locale=en&theme=dracula" alt="gabrielbeitum" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbeitum&theme=dracula" alt="gabrielbeitum" />
+</p>
+
+<h3 align="center">Conecte-se comigo:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/seu-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/seu-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seu-instagram" height="30" width="40" /></a>
+  <a href="https://discord.gg/seu-discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="seu-discord" height="30" width="40" /></a>
+</p>
