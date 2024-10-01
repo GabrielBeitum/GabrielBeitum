@@ -46,7 +46,7 @@
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/seu-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seu-instagram" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gabriel-marcello-beitum-96b573265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/gabrielbeitum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seu-instagram" height="30" width="40" /></a>
   <a href="https://discord.gg/seu-discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="seu-discord" height="30" width="40" /></a>
 </p>
