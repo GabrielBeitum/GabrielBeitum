@@ -1,7 +1,3 @@
-<h1 align="center">Olá 👋, eu sou Gabriel Marcello Beitum</h1>
-
-<h3 align="center">Desenvolvedor Full Stack | Entusiasta de Machine Learning | Estudante de ADS</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabrielbeitum&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="gabrielbeitum" />
 </p>
@@ -13,10 +9,8 @@
 </p>
 
 <p align="center">
-  🎓 Atualmente cursando <strong>Análise e Desenvolvimento de Sistemas na Fatec PP</strong><br>
-  💼 Trabalhando como <strong>Suporte Técnico na Unoeste</strong><br>
+  💼 <strong>Empreendedor</strong><br>
   🌱 Focado em aprender <strong>Machine Learning e Inteligência Artificial</strong><br>
-  💬 Pergunte-me sobre <strong>Python, C#, React, HTML, CSS e JavaScript</strong>
 </p>
 
 <h3 align="center">Linguagens e Ferramentas:</h3>
